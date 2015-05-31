@@ -1,2 +1,2 @@
 # floristplaza
-Florist Plaza
+Florist Plaza.com
